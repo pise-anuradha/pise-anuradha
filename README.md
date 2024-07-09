@@ -23,5 +23,5 @@ I specialize in **[mention your main areas of expertise, e.g., predictive modeli
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pise-anuradha&theme=synthwave&show_icons=true&hide_border=false&layout=compact" alt="pise-anuradha's GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pise-anuradha&theme=synthwave&hide_border=false" alt="pise-anuradha's GitHub Stats" />
-
+[<img src="https://github-readme-streak-stats.herokuapp.com/?user=pise-anuradha&theme=synthwave&hide_border=false" alt="pise-anuradha's GitHub Stats" />
+](https://github-readme-streak-stats.herokuapp.com/?user=pise-anuradha&theme=synthwave&hide_border=false)
