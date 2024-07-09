@@ -8,15 +8,19 @@
 
 ###
 
-<h2 align="center">About Me</h2>
+About Me
+👋 Hi there! I’m Jane Doe, a passionate Data Scientist and aspiring Machine Learning Engineer with a strong foundation in data analysis, machine learning, and statistical modeling.
 
-###
+🧩 Who I Am
+I have a background in Computer Science, with hands-on experience in various aspects of data science. My journey began with a fascination with data during my college years, and it has evolved into a rewarding career where I leverage data to drive insights and make informed decisions.
 
-🤖 I love learning about and making machine learning systems.\
-💻 I am constantly seeking out new technologies and learning about them.\
-🤝 I am open to collaborating with others on various projects, particularly those related to machine learning or areas that I have yet to explore.\
-🌟 In my leisure time, I enjoy exploring a variety of media and finding new sources of inspiration for projects.
-###
+💼 What I Do
+I specialize in predictive modeling, data visualization, and data preprocessing. I am skilled in:
+
+Data Analysis & Visualization: Analyzing complex data sets and creating clear, actionable visualizations using Python, R, Power BI, and Tableau.
+Machine Learning & Deep Learning: Building and deploying machine learning models with frameworks such as TensorFlow, PyTorch, and scikit-learn.
+Statistical Analysis: Applying statistical methods to solve real-world problems, from hypothesis testing to regression analysis.
+Data Engineering: Designing and maintaining scalable data pipelines and data architectures.
 
 <h2 align="center">My Stats</h2>
 
