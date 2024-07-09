@@ -6,7 +6,7 @@
 
 ## 🧩 Who I Am
 
-I have a background in **[Computer Sciences]**, with hands-on experience in various aspects of data science. My journey began witha fascination with data during my college years, and it has evolved into a rewarding career where I leverage data to drive insights and make informed decisions.
+I have a background in **Computer Sciences**, with hands-on experience in various aspects of data science. My journey began witha fascination with data during my college years, and it has evolved into a rewarding career where I leverage data to drive insights and make informed decisions.
 
 ## 💼 What I Do
 
