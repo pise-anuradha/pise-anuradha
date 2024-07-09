@@ -16,3 +16,9 @@ I specialize in **[mention your main areas of expertise, e.g., predictive modeli
 - **Machine Learning & Deep Learning**: Building and deploying machine learning models with frameworks such as TensorFlow, PyTorch, and scikit-learn.
 - **Statistical Analysis**: Applying statistical methods to solve real-world problems, from hypothesis testing to regression analysis.
 - **Data Engineering**: Designing and maintaining scalable data pipelines and data architectures.
+
+## My Stats
+
+![pise-anuradha's Stats](https://github-readme-stats.vercel.app/api?username=pise-anuradha&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+![pise-anuradha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pise-anuradha&theme=dracula&hide_border=false)
+![pise-anuradha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pise-anuradha&theme=dracula&show_icons=true&hide_border=false&layout=compact)
