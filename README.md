@@ -2,7 +2,7 @@
 
 # About Me
 
-👋 Hi there! I’m **[Anuradha]**, a passionate Data Scientist and aspiring **[Data Analyst]** with a strong foundation in data analysis, machine learning, and statistical modeling.
+👋 Hi there! I’m **Anuradha**, a passionate Data Scientist and aspiring **Data Analyst** with a strong foundation in data analysis, machine learning, and statistical modeling.
 
 ## 🧩 Who I Am
 
