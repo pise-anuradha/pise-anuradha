@@ -36,6 +36,7 @@ I specialize in **[mention your main areas of expertise, e.g., predictive modeli
 </div>
 
 <div align="center">
-[<img src="https://github-readme-streak-stats.herokuapp.com/?user=pise-anuradha&theme=synthwave&hide_border=false" alt="pise-anuradha's GitHub Stats" />](https://github-readme-streak-stats.herokuapp.com/?user=pise-anuradha&theme=synthwave&hide_border=false)
+[<img src="https://github-readme-streak-stats.herokuapp.com/?user=pise-anuradha&theme=synthwave&hide_border=false" alt="pise-anuradha's GitHub Stats" />
+](https://github-readme-streak-stats.herokuapp.com/?user=pise-anuradha&theme=synthwave&hide_border=false)
 </div>
 
