@@ -31,7 +31,7 @@ I specialize in **predictive modeling, data visualization, and data preprocessin
   ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=white)
   ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 
-🌟 **Projects**
+<!--🌟 **Projects**
 
 Here are a few projects that showcase my skills and interests:
 
@@ -39,7 +39,7 @@ Here are a few projects that showcase my skills and interests:
 - **[Employee Retention Analysis](https://github.com/pise-anuradha/employee-retention-analysis)**: Analyzed employee retention data to predict turnover rates and suggest retention strategies.
 - **[Skill Gap Analysis for Training Programs](https://github.com/pise-anuradha/skill-gap-analysis)**: Conducted a skill gap analysis for a finance company to design effective training programs for employees.
 
-Feel free to explore my repositories to see more of my work!
+Feel free to explore my repositories to see more of my work! -->
 
 🔧 **Technologies & Tools**
 
