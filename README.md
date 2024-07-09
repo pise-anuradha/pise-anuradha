@@ -19,7 +19,9 @@ I specialize in **[mention your main areas of expertise, e.g., predictive modeli
 
 ## My Stats
 
-![pise-anuradha's Stats](https://github-readme-stats.vercel.app/api?username=pise-anuradha&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+[![pise-anuradha's Stats](https://github-readme-stats.vercel.app/api?username=pise-anuradha&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+](https://github-readme-stats.vercel.app/api?username=pise-anuradha&theme=synthwave&show_icons=true&hide_border=false&count_private=true)
+
 ![pise-anuradha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pise-anuradha&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
 
