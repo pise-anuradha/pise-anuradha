@@ -86,9 +86,9 @@ I work with a variety of tools and technologies, including:
   
 </div> --->
 
-<div align="center">
+<!--<div align="center">
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pise-anuradha&theme=synthwave&hide_border=false" alt="pise-anuradha's GitHub Stats" />
 
-</div>
+</div> -->
 
