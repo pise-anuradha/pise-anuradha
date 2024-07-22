@@ -80,11 +80,11 @@ I work with a variety of tools and technologies, including:
 
 </div>
 
-<div align="center">
+<!--- <div align="center">
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pise-anuradha&theme=synthwave&show_icons=true&hide_border=false&layout=compact" alt="pise-anuradha's GitHub Stats" /> 
   
-</div>
+</div> --->
 
 <div align="center">
   
