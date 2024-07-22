@@ -74,11 +74,11 @@ I work with a variety of tools and technologies, including:
 
 ## 📈 My Stats
 
-<div align="center">
+<!--<div align="center">
   
 <img src="https://github-readme-stats.vercel.app/api?username=pise-anuradha&theme=synthwave&show_icons=true&hide_border=false&count_private=true" alt="pise-anuradha's GitHub Stats" />
 
-</div>
+</div> -->
 
 <!--- <div align="center">
   
@@ -86,9 +86,9 @@ I work with a variety of tools and technologies, including:
   
 </div> --->
 
-<!--<div align="center">
+<div align="center">
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pise-anuradha&theme=synthwave&hide_border=false" alt="pise-anuradha's GitHub Stats" />
 
-</div> -->
+</div> 
 
